@@ -11,3 +11,4 @@ This repository collates the papers I am reading for my MSCS thesis.
 |[Cooperative neural networks: Exploiting prior independence structure for improved classification](https://arxiv.org/abs/1906.00291)|CoNN|NeurIPS 2018|[PyTorch](https://github.com/Harshs27/CoNN)|
 |[Learning to Specialize with Knowledge Distillation for Visual Question Answering](https://papers.nips.cc/paper/2018/hash/0f2818101a7ac4b96ceeba38de4b934c-Abstract.html)|MCL-KD|NeurIPS 2018|[PyTorch](https://github.com/JonghwanMun/MCL-KD)|
 |[KATE: K-Competitive Autoencoder for Text](https://arxiv.org/abs/1705.02033)|KATE|KDD 2017|[Keras](https://github.com/hugochan/KATE)|
+|[Distilling the Knowledge in Neural Networks](https://arxiv.org/abs/1503.02531)|KD|NeurIPS 2015 Workshop||
