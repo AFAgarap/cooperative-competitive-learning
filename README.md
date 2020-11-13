@@ -13,3 +13,4 @@ This repository collates the papers I am reading for my MSCS thesis.
 |[KATE: K-Competitive Autoencoder for Text](https://arxiv.org/abs/1705.02033)|KATE|KDD 2017|[Keras](https://github.com/hugochan/KATE)|
 |[Distilling the Knowledge in Neural Networks](https://arxiv.org/abs/1503.02531)|KD|NeurIPS 2015 Workshop||
 |[A network of deep neural networks for distant speech recognition](https://arxiv.org/abs/1703.08002)|CN-DNN|ICASSP 2017||
+|[Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)|CoT|ICML 2019||
