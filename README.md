@@ -15,3 +15,4 @@ This repository collates the papers I am reading for my MSCS thesis.
 |[A network of deep neural networks for distant speech recognition](https://arxiv.org/abs/1703.08002)|CN-DNN|ICASSP 2017||
 |[Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)|CoT|ICML 2019||
 |[Learning a Text-Video Embedding from Incomplete and Heterogeneous Data](https://arxiv.org/abs/1804.02516)|MEE||[PyTorch](https://github.com/antoine77340/Mixture-of-Embedding-Experts)|
+|[MIX'EM: Unsupervised Image Classification using a Mixture of Embeddings](https://arxiv.org/abs/2007.09502)|MIX'EM|ACCV 2020||
