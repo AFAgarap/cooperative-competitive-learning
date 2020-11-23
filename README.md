@@ -25,3 +25,4 @@ This repository collates the papers I am reading for my MSCS thesis.
 |Paper|Method|Venue|Code|
 |-----|------|-----|----|
 |[Multiple Choice Learning: Learning to Produce Multiple Structured Outputs](https://papers.nips.cc/paper/2012/hash/cfbce4c1d7c425baf21d6b6f2babe6be-Abstract.html)|MCL|NeurIPS 2012||
+|[Confident Multiple Choice Learning](https://arxiv.org/pdf/1706.03475.pdf)|CMCL|ICML 2017|[TensorFlow](https://github.com/chhwang/cmcl)|
