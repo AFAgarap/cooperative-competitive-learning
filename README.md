@@ -2,7 +2,7 @@
 
 This repository collates the papers I am reading for my MSCS thesis.
 
-### 2015 -- present
+### 2015 and later
 
 |Paper|Method|Venue|Code|
 |-----|------|-----|----|
@@ -18,11 +18,10 @@ This repository collates the papers I am reading for my MSCS thesis.
 |[Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)|CoT|ICML 2019||
 |[Learning a Text-Video Embedding from Incomplete and Heterogeneous Data](https://arxiv.org/abs/1804.02516)|MEE||[PyTorch](https://github.com/antoine77340/Mixture-of-Embedding-Experts)|
 |[MIX'EM: Unsupervised Image Classification using a Mixture of Embeddings](https://arxiv.org/abs/2007.09502)|MIX'EM|ACCV 2020||
+|[Confident Multiple Choice Learning](https://arxiv.org/pdf/1706.03475.pdf)|CMCL|ICML 2017|[TensorFlow](https://github.com/chhwang/cmcl)|
 
-
-### 2015 and older
+### 2014 and older
 
 |Paper|Method|Venue|Code|
 |-----|------|-----|----|
 |[Multiple Choice Learning: Learning to Produce Multiple Structured Outputs](https://papers.nips.cc/paper/2012/hash/cfbce4c1d7c425baf21d6b6f2babe6be-Abstract.html)|MCL|NeurIPS 2012||
-|[Confident Multiple Choice Learning](https://arxiv.org/pdf/1706.03475.pdf)|CMCL|ICML 2017|[TensorFlow](https://github.com/chhwang/cmcl)|
