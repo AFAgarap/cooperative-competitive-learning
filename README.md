@@ -28,4 +28,6 @@ This repository collates the papers I am reading for my MSCS thesis.
 
 ### Preprints
 
-|[Learning a Text-Video Embedding from Incomplete and Heterogeneous Data](https://arxiv.org/abs/1804.02516)|MEE||[PyTorch](https://github.com/antoine77340/Mixture-of-Embedding-Experts)|
+|Paper|Method|Year|Code|
+|-----|------|----|----|
+|[Learning a Text-Video Embedding from Incomplete and Heterogeneous Data](https://arxiv.org/abs/1804.02516)|MEE|2018|[PyTorch](https://github.com/antoine77340/Mixture-of-Embedding-Experts)|
