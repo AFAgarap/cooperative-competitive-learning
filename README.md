@@ -30,4 +30,5 @@ This repository collates the papers I am reading for my MSCS thesis.
 
 |Paper|Method|Year|Code|
 |-----|------|----|----|
+|[DMCL: Distillation Multiple Choice Learning for Multimodal Action Recognition](https://arxiv.org/abs/1912.10982)|MCL|2019|[TensorFlow](https://github.com/ncgarcia/DMCL)|
 |[Learning a Text-Video Embedding from Incomplete and Heterogeneous Data](https://arxiv.org/abs/1804.02516)|MEE|2018|[PyTorch](https://github.com/antoine77340/Mixture-of-Embedding-Experts)|
