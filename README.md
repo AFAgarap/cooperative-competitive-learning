@@ -6,8 +6,10 @@ This repository collates the papers I am reading for my MSCS thesis.
 
 |Paper|Method|Venue|Code|
 |-----|------|-----|----|
-|[Analyzing and Improving Representations with the Soft Nearest Neighbor Loss](https://arxiv.org/abs/1902.01889)|SNNL|ICML 2019||
+|[MIX'EM: Unsupervised Image Classification using a Mixture of Embeddings](https://arxiv.org/abs/2007.09502)|MIX'EM|ACCV 2020||
 |[Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models](https://arxiv.org/abs/1911.03393)|MMVAE|NeurIPS 2019|[PyTorch](https://github.com/iffsid/mmvae)|
+|[Analyzing and Improving Representations with the Soft Nearest Neighbor Loss](https://arxiv.org/abs/1902.01889)|SNNL|ICML 2019||
+|[Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)|CoT|ICML 2019||
 |[Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335)|MVAE|NeurIPS 2018|[PyTorch](https://github.com/mhw32/multimodal-vae-public)|
 |[Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization](https://arxiv.org/abs/1807.00230)|SS AVTS|NeurIPS 2018||
 |[Cooperative neural networks: Exploiting prior independence structure for improved classification](https://arxiv.org/abs/1906.00291)|CoNN|NeurIPS 2018|[PyTorch](https://github.com/Harshs27/CoNN)|
@@ -15,8 +17,6 @@ This repository collates the papers I am reading for my MSCS thesis.
 |[KATE: K-Competitive Autoencoder for Text](https://arxiv.org/abs/1705.02033)|KATE|KDD 2017|[Keras](https://github.com/hugochan/KATE)|
 |[Distilling the Knowledge in Neural Networks](https://arxiv.org/abs/1503.02531)|KD|NeurIPS 2015 Workshop||
 |[A network of deep neural networks for distant speech recognition](https://arxiv.org/abs/1703.08002)|CN-DNN|ICASSP 2017||
-|[Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)|CoT|ICML 2019||
-|[MIX'EM: Unsupervised Image Classification using a Mixture of Embeddings](https://arxiv.org/abs/2007.09502)|MIX'EM|ACCV 2020||
 |[Confident Multiple Choice Learning](https://arxiv.org/pdf/1706.03475.pdf)|CMCL|ICML 2017|[TensorFlow](https://github.com/chhwang/cmcl)|
 
 ### 2014 and older
