@@ -7,6 +7,7 @@ This repository collates the papers I am reading for my MSCS thesis.
 |Paper|Method|Venue|Code|
 |-----|------|-----|----|
 |[MIX'EM: Unsupervised Image Classification using a Mixture of Embeddings](https://arxiv.org/abs/2007.09502)|MIX'EM|ACCV 2020||
+|[Unsupervised Learning by Competing Hidden Units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf)|ULComp|PNAS 2019||
 |[Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models](https://arxiv.org/abs/1911.03393)|MMVAE|NeurIPS 2019|[PyTorch](https://github.com/iffsid/mmvae)|
 |[Analyzing and Improving Representations with the Soft Nearest Neighbor Loss](https://arxiv.org/abs/1902.01889)|SNNL|ICML 2019||
 |[Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)|CoT|ICML 2019||
