@@ -11,6 +11,7 @@ This repository collates the papers I am reading for my MSCS thesis.
 |[Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models](https://arxiv.org/abs/1911.03393)|MMVAE|NeurIPS 2019|[PyTorch](https://github.com/iffsid/mmvae)|
 |[Analyzing and Improving Representations with the Soft Nearest Neighbor Loss](https://arxiv.org/abs/1902.01889)|SNNL|ICML 2019||
 |[Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)|CoT|ICML 2019||
+|[Enhancing Adversarial Defense by k-Winners-Take-All](https://arxiv.org/pdf/1905.10510.pdf)||ICLR 2019|[PyTorch](https://github.com/a554b554/kWTA-Activation)|
 |[Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335)|MVAE|NeurIPS 2018|[PyTorch](https://github.com/mhw32/multimodal-vae-public)|
 |[Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization](https://arxiv.org/abs/1807.00230)|SS AVTS|NeurIPS 2018||
 |[Cooperative neural networks: Exploiting prior independence structure for improved classification](https://arxiv.org/abs/1906.00291)|CoNN|NeurIPS 2018|[PyTorch](https://github.com/Harshs27/CoNN)|
