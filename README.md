@@ -16,12 +16,12 @@ This repository collates the papers I am reading for my MSCS thesis.
 |[Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization](https://arxiv.org/abs/1807.00230)|SS AVTS|NeurIPS 2018||
 |[Cooperative neural networks: Exploiting prior independence structure for improved classification](https://arxiv.org/abs/1906.00291)|CoNN|NeurIPS 2018|[PyTorch](https://github.com/Harshs27/CoNN)|
 |[Learning to Specialize with Knowledge Distillation for Visual Question Answering](https://papers.nips.cc/paper/2018/hash/0f2818101a7ac4b96ceeba38de4b934c-Abstract.html)|MCL-KD|NeurIPS 2018|[PyTorch](https://github.com/JonghwanMun/MCL-KD)|
+|[A network of deep neural networks for distant speech recognition](https://arxiv.org/abs/1703.08002)|CN-DNN|ICASSP 2017||
+|[Confident Multiple Choice Learning](https://arxiv.org/pdf/1706.03475.pdf)|CMCL|ICML 2017|[TensorFlow](https://github.com/chhwang/cmcl)|
 |[KATE: K-Competitive Autoencoder for Text](https://arxiv.org/abs/1705.02033)|KATE|KDD 2017|[Keras](https://github.com/hugochan/KATE)|
 |[Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles](https://arxiv.org/abs/1606.07839v3)|sMCL|NeurIPS 2016||
 |[Distilling the Knowledge in Neural Networks](https://arxiv.org/abs/1503.02531)|KD|NeurIPS 2015 Workshop||
 |[Winner-Take-All Autoencoders](https://papers.nips.cc/paper/2015/file/5129a5ddcd0dcd755232baa04c231698-Paper.pdf)|WTA AE|NeurIPS 2015||
-|[A network of deep neural networks for distant speech recognition](https://arxiv.org/abs/1703.08002)|CN-DNN|ICASSP 2017||
-|[Confident Multiple Choice Learning](https://arxiv.org/pdf/1706.03475.pdf)|CMCL|ICML 2017|[TensorFlow](https://github.com/chhwang/cmcl)|
 
 ### 2014 and older
 
